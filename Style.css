@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+h6 {
+    text-align: center;
+    font-size: 20px;
+    color: wheat;
+}
+/* div.wrapper {
+    position: absolute;
+    top: 74px;
+    left: 47%;
+} */
+#Value {
+    height: 36px;
+    width: 20%;
+    text-align: center;
+}
+
+.add-button {
+    width: 2.3%;
+    height: 41px;
+    position: relative;
+    top: -43px;
+    float: right;
+    right: 36.3%;
+}
+
+input[type="text"] {
+     position: relative;
+     display: block;
+     margin : 0 auto;
+}
+
+#new {
+    text-align: center;
+    margin-top: 130px;
+    border: 3px solid wheat;
+    width: 50%;
+    margin-left: 26%;
+    overflow: hidden;
+}
+
+p {
+    font-size: 20px;
+    color: wheat;
+    padding-right: 5px;
+}
+
+p > button {
+    height: 19px;
+    width: 38px;
+}
+

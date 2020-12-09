@@ -1,0 +1,18 @@
+@media only screen and (max-width: 425px) {
+#new {
+    margin-top: 93px;
+}
+.add-button {
+    width: 9.3%;
+    right: 15.3%;
+}
+
+#Value {
+    width: 43%;
+}
+#new {
+    width: 66%;
+    margin-left: 20%;
+}
+
+}
