@@ -29,7 +29,7 @@ input[type="text"] {
      margin : 0 auto;
 }
 
-#new {
+#todo-list {
     text-align: center;
     margin-top: 130px;
     border: 3px solid wheat;
